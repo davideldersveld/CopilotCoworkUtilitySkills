@@ -7,3 +7,4 @@ Each skill lives in its own folder and is intended to be lightweight, focused, a
 Current contents:
 
 - `redact-pdf/` - a focused skill area for PDF redaction workflows
+- `signature-pdf/` - a focused skill area for building signature-ready PDFs for Acrobat, Adobe Sign, and DocuSign workflows
